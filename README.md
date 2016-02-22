@@ -1,2 +1,2 @@
 # viotware
-An intelligent IoT framework for wireless visual sensor networks.
+An intelligent IoT software framework for wireless visual sensor networks.
